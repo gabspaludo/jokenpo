@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:jokenpo/screens/results.dart';
+import 'dart:math';
 
 class MyHomePage extends StatefulWidget {
   const MyHomePage({super.key, required this.title});
